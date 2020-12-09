@@ -1,0 +1,58 @@
+h1{
+  color : red;
+  font-size : 60px;
+  text-align : center;
+  margin-top:200px;
+}
+a{
+  color:white;
+}
+h1 span:nth-child(1) {
+  color:#428afa;
+}
+h1 span:nth-child(2) {
+  color:#ed3b2e;
+}
+h1 span:nth-child(3) {
+  color:#ffbd08;
+}
+h1 span:nth-child(4) {
+  color:#428afa;
+}
+h1 span:nth-child(5) {
+  color:#31ab52;
+}
+h1 span:nth-child(6) {
+  color:#ed3b2e;
+}
+
+.button{
+  text-align:center;
+  margin-top: 10px;
+}
+.button #search{
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+}
+.button #lucky{
+  display: inline-block;
+  width: 130px;
+  height:30px;
+  text-align: center;
+}
+
+.search-bar{
+  width:500px;
+   
+}
+
+h3{
+  color: blue;
+  font-size : 20px;
+  text-align : center;
+}
+h3 span{
+  color:red;
+}
